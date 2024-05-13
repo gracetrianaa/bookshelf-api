@@ -1,0 +1,15 @@
+{
+  "name": "fp-bookshelf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.9",
+    "nanoid": "^3.3.7"
+  }
+}
